@@ -1,0 +1,30 @@
+git initialization
+ 
+git init
+
+git status
+
+git commit -m "First Commit"
+
+git config --global user.email"email"
+
+git config --global user.name"github username"
+
+
+git commands
+
+git status
+
+git config 
+
+git add Filename.(txt,c,cpp,py, extensions of files)
+
+git commit -m"commit msg"
+
+git branch
+
+git checkout branchname
+
+git checkout -b branchname
+
+ 
